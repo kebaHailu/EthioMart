@@ -22,9 +22,9 @@ The repository is organized into the following directories:
 To run the project locally, follow these steps:
 
 Clone the Repository:
-`git clone https://github.com/kebaHailu/ethiomart.git`
+`git clone https://github.com/kebaHailu/EthioMart.git`
 
-`cd ethiomart`
+`cd EthioMart`
 
 Set up the Virtual Environment:
 
