@@ -1,3 +1,4 @@
 Data/
 myenv/
 .env 
+.ipynb_checkpoints/
